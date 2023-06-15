@@ -1,4 +1,4 @@
-## 🙋‍♂️ Hey there! I'm Supriya
+## 🙋‍♂️ Hey there! I'm Supriya Singh
 
 ### 💫 About Me
   I'm currently doing a bachelor's in Computer Science at Chitkara University, Punjab.<br>🎯  On a track to learning more about Web Development.<br> ♥️   In my free time I like to work on projects and open challenges.<br>🚀 -> I like these !!!!
