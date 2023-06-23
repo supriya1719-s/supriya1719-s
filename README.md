@@ -12,6 +12,5 @@
 
 
 ### 🤝🏻  Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-singh-b7585a1b6/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Eddy24) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-singh-b7585a1b6/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
