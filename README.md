@@ -1,16 +1,37 @@
-## 🙋‍♂️ Hey there! I'm Supriya Singh
+🙋‍♂️ Hey there! I'm Supriya Singh
+💫 About Me
+As a dedicated computer science graduate from Chitkara University, I embarked on my professional journey with a strong passion for technology and problem-solving. During my studies, I discovered the dynamic field of Site Reliability Engineering (SRE), which inspired me to pursue a career focused on ensuring system reliability and enhancing user experiences.
 
-### 💫 About Me
-  I'm currently doing a bachelor's in Computer Science at Chitkara University, Punjab.<br>🎯  On a track to learning more about Web Development.<br> ♥️   In my free time I like to work on projects and open challenges.<br>🚀 -> I like these !!!!
+Over the past two years, I have been working as a Site Reliability Engineer at Equifax. In this role, I leverage my skills in automation, monitoring, and infrastructure management to maintain high availability and performance in complex systems. My experience includes collaborating with cross-functional teams to implement best practices in DevOps and cloud computing, which has further solidified my expertise in the field.
+
+My academic background provided me with a solid foundation in programming languages such as Java, JavaScript, and C++, as well as web development technologies. I continuously seek opportunities to learn and grow, staying updated with industry trends and advancements.
+
+💻 Tech Stack
+
+GCP
+Docker
+Kubernetes
+Terraform
+Jenkins
+CI/CD
+Helm
+Git
+GitHub
+Confluence
+ROVO
+Datadog
+Grafana
 
 
-### 💻 Tech Stack
+🤝🏻 Connect with Me
+LinkedIn
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+(Currently, I've been working at Equifax as a Site Reliability Engineer for the last two years)
 
 
 
+!python
 ### 🤝🏻  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriya-singh-b7585a1b6/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
