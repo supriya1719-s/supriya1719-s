@@ -8,19 +8,19 @@ My academic background provided me with a solid foundation in programming langua
 
 💻 Tech Stack
 
-GCP
-Docker
-Kubernetes
-Terraform
-Jenkins
-CI/CD
-Helm
-Git
-GitHub
-Confluence
-ROVO
-Datadog
-Grafana
+GCP,
+Docker,
+Kubernetes,
+Terraform,
+Jenkins,
+CI/CD,
+Helm,
+Git,
+GitHub,
+Confluence,
+ROVO,
+Datadog,
+Grafana,
 
 
 🤝🏻 Connect with Me
